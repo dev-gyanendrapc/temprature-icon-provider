@@ -1,0 +1,24 @@
+{
+  "name": "weather-conditions-icons",
+  "version": "1.0.0",
+  "description": "The Weather Conditions Icons npm package is a comprehensive collection of weather icons designed to enhance the visual representation of different weather conditions. This package simplifies the integration of weather icons into your web applications, providing a wide range of symbols that accurately depict various weather phenomena.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-gyanendrapc/temprature-icon-provider.git"
+  },
+  "keywords": [
+    "icon",
+    "temprature",
+    "weather"
+  ],
+  "author": "gyanendrapc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-gyanendrapc/temprature-icon-provider/issues"
+  },
+  "homepage": "https://github.com/dev-gyanendrapc/temprature-icon-provider#readme"
+}
